@@ -8,8 +8,11 @@ mv Karabiner-Elements-complex-rules/minila_rules.json ~/.config/karabiner/assets
 ```
 ## Features
 ```
-right ⌘ + sdef to   arrow    keys
-right ⌘ +   ;  to    del     keys
-right ⌘ +   l  to  page_up   keys
-right ⌘ +   l  to page_down  keys
+right ⌘ + sdef to   arrow    key
+right ⌘ +   ;  to    del     key
+right ⌘ +   l  to  page_up   key
+right ⌘ +   l  to page_down  key
+right ⌘ +   k  to   home     key
+right ⌘ +   ,  to    end     key
+right ⌘ +   m  to delforward key
 ```
